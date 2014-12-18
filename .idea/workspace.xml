@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7272cffb-711f-49ca-9c6f-fba18e0af484" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/variable/serialize.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/variable/unserialize.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="classExercise.iws" />
@@ -28,16 +28,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="strlen.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/string/strlen.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-1.875" vertical-offset="0" max-vertical-offset="210">
-              <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="strpos.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/string/strpos.php">
           <provider selected="true" editor-type-id="text-editor">
@@ -118,14 +108,26 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="serialize.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="serialize.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/variable/serialize.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.8759124" vertical-offset="150" max-vertical-offset="360">
+            <state vertical-scroll-proportion="-5.0" vertical-offset="150" max-vertical-offset="360">
               <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
               <folding>
                 <marker date="1418864860903" expanded="true" signature="268:309" placeholder="UPDATE sessi..." />
                 <marker date="1418864860903" expanded="true" signature="464:508" placeholder="INSERT INTO ..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="unserialize.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/variable/unserialize.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.8759124" vertical-offset="195" max-vertical-offset="405">
+              <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+              <folding>
+                <marker date="1418864905423" expanded="true" signature="273:311" placeholder="SELECT data ..sessions..." />
               </folding>
             </state>
           </provider>
@@ -163,6 +165,7 @@
         <option value="$PROJECT_DIR$/variable/is_null.php" />
         <option value="$PROJECT_DIR$/variable/isset.php" />
         <option value="$PROJECT_DIR$/variable/serialize.php" />
+        <option value="$PROJECT_DIR$/variable/unserialize.php" />
       </list>
     </option>
   </component>
@@ -510,11 +513,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/variable/serialize.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.8759124" vertical-offset="150" max-vertical-offset="360">
+        <state vertical-scroll-proportion="-5.0" vertical-offset="150" max-vertical-offset="360">
           <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
           <folding>
             <marker date="1418864860903" expanded="true" signature="268:309" placeholder="UPDATE sessi..." />
             <marker date="1418864860903" expanded="true" signature="464:508" placeholder="INSERT INTO ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/variable/unserialize.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.8759124" vertical-offset="195" max-vertical-offset="405">
+          <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding>
+            <marker date="1418864905423" expanded="true" signature="273:311" placeholder="SELECT data ..sessions..." />
           </folding>
         </state>
       </provider>
