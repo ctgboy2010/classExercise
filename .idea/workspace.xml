@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7272cffb-711f-49ca-9c6f-fba18e0af484" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/string/strip_tags.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/string/strlen.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="classExercise.iws" />
@@ -108,11 +108,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="strip_tags.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="strip_tags.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/string/strip_tags.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.47826087" vertical-offset="50" max-vertical-offset="225">
-              <caret line="7" column="37" selection-start-line="2" selection-start-column="5" selection-end-line="7" selection-end-column="37" />
+            <state vertical-scroll-proportion="-3.75" vertical-offset="0" max-vertical-offset="225">
+              <caret line="6" column="7" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="strlen.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/string/strlen.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.3515625" vertical-offset="0" max-vertical-offset="210">
+              <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -140,6 +150,7 @@
         <option value="$PROJECT_DIR$/string/str_repeat.php" />
         <option value="$PROJECT_DIR$/string/str_replace.php" />
         <option value="$PROJECT_DIR$/string/strip_tags.php" />
+        <option value="$PROJECT_DIR$/string/strlen.php" />
       </list>
     </option>
   </component>
@@ -393,8 +404,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/string/strip_tags.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.47826087" vertical-offset="50" max-vertical-offset="225">
-          <caret line="7" column="37" selection-start-line="2" selection-start-column="5" selection-end-line="7" selection-end-column="37" />
+        <state vertical-scroll-proportion="-3.75" vertical-offset="0" max-vertical-offset="225">
+          <caret line="6" column="7" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/string/strlen.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3515625" vertical-offset="0" max-vertical-offset="210">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
           <folding />
         </state>
       </provider>
