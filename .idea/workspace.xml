@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7272cffb-711f-49ca-9c6f-fba18e0af484" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/array/array_column.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/array/array_count_values.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="classExercise.iws" />
@@ -28,11 +28,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="array_column.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="array_column.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/array/array_column.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5681818" vertical-offset="0" max-vertical-offset="264">
+            <state vertical-scroll-proportion="-6.25" vertical-offset="0" max-vertical-offset="255">
               <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="array_count_values.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/array/array_count_values.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.2840909" vertical-offset="0" max-vertical-offset="264">
+              <caret line="5" column="2" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="2" />
               <folding />
             </state>
           </provider>
@@ -74,6 +84,7 @@
         <option value="$PROJECT_DIR$/array/array_change_key_case.php" />
         <option value="$PROJECT_DIR$/array/array_chunk.php" />
         <option value="$PROJECT_DIR$/array/array_column.php" />
+        <option value="$PROJECT_DIR$/array/array_count_values.php" />
       </list>
     </option>
   </component>
@@ -511,8 +522,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/array/array_column.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5681818" vertical-offset="0" max-vertical-offset="264">
+        <state vertical-scroll-proportion="-6.25" vertical-offset="0" max-vertical-offset="255">
           <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/array/array_count_values.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.2840909" vertical-offset="0" max-vertical-offset="264">
+          <caret line="5" column="2" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="2" />
           <folding />
         </state>
       </provider>
