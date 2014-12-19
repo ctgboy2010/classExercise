@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7272cffb-711f-49ca-9c6f-fba18e0af484" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/array/array_keys.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/array/array_merge.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="classExercise.iws" />
@@ -48,11 +48,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="array_keys.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="array_keys.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/array/array_keys.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.8122744" vertical-offset="0" max-vertical-offset="315">
+            <state vertical-scroll-proportion="-9.375" vertical-offset="0" max-vertical-offset="315">
               <caret line="15" column="2" selection-start-line="15" selection-start-column="2" selection-end-line="15" selection-end-column="2" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="array_merge.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/array/array_merge.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.55785125" vertical-offset="0" max-vertical-offset="242">
+              <caret line="9" column="2" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
               <folding />
             </state>
           </provider>
@@ -102,6 +112,7 @@
         <option value="$PROJECT_DIR$/array/array_flip.php" />
         <option value="$PROJECT_DIR$/array/array_key_exists.php" />
         <option value="$PROJECT_DIR$/array/array_keys.php" />
+        <option value="$PROJECT_DIR$/array/array_merge.php" />
       </list>
     </option>
   </component>
@@ -575,8 +586,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/array/array_keys.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.8122744" vertical-offset="0" max-vertical-offset="315">
+        <state vertical-scroll-proportion="-9.375" vertical-offset="0" max-vertical-offset="315">
           <caret line="15" column="2" selection-start-line="15" selection-start-column="2" selection-end-line="15" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/array/array_merge.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.55785125" vertical-offset="0" max-vertical-offset="242">
+          <caret line="9" column="2" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
           <folding />
         </state>
       </provider>
