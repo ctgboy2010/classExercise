@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7272cffb-711f-49ca-9c6f-fba18e0af484" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/array/array_shift.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/array/compact.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="classExercise.iws" />
@@ -28,70 +28,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="array_flip.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/array/array_flip.php">
+      <file leaf-file-name="compact.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/array/compact.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-6.25" vertical-offset="0" max-vertical-offset="240">
-              <caret line="10" column="2" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="array_key_exists.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/array/array_key_exists.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-4.375" vertical-offset="0" max-vertical-offset="195">
-              <caret line="7" column="2" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="array_keys.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/array/array_keys.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-9.375" vertical-offset="0" max-vertical-offset="315">
-              <caret line="15" column="2" selection-start-line="15" selection-start-column="2" selection-end-line="15" selection-end-column="2" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="array_merge.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/array/array_merge.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-5.625" vertical-offset="0" max-vertical-offset="225">
-              <caret line="9" column="2" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="array_push.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/array/array_push.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-3.75" vertical-offset="0" max-vertical-offset="180">
-              <caret line="6" column="2" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="array_search.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/array/array_search.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-6.25" vertical-offset="0" max-vertical-offset="240">
-              <caret line="10" column="2" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="array_shift.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/array/array_shift.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.45064378" vertical-offset="0" max-vertical-offset="233">
+            <state vertical-scroll-proportion="0.39772728" vertical-offset="0" max-vertical-offset="264">
               <caret line="7" column="2" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
               <folding />
             </state>
@@ -146,6 +86,7 @@
         <option value="$PROJECT_DIR$/array/array_push.php" />
         <option value="$PROJECT_DIR$/array/array_search.php" />
         <option value="$PROJECT_DIR$/array/array_shift.php" />
+        <option value="$PROJECT_DIR$/array/compact.php" />
       </list>
     </option>
   </component>
@@ -625,14 +566,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/array/array_merge.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.625" vertical-offset="0" max-vertical-offset="225">
-          <caret line="9" column="2" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/array/array_push.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-3.75" vertical-offset="0" max-vertical-offset="180">
@@ -651,7 +584,23 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/array/array_shift.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.45064378" vertical-offset="0" max-vertical-offset="233">
+        <state vertical-scroll-proportion="0.37906137" vertical-offset="0" max-vertical-offset="277">
+          <caret line="7" column="2" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/array/array_merge.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5113636" vertical-offset="0" max-vertical-offset="264">
+          <caret line="9" column="2" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/array/compact.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.39772728" vertical-offset="0" max-vertical-offset="264">
           <caret line="7" column="2" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
           <folding />
         </state>
