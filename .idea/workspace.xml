@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7272cffb-711f-49ca-9c6f-fba18e0af484" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/array/array_combine.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/array/array_diff_key.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="classExercise.iws" />
@@ -88,11 +88,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="array_combine.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="array_combine.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/array/array_combine.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.57939917" vertical-offset="0" max-vertical-offset="233">
+            <state vertical-scroll-proportion="-5.625" vertical-offset="0" max-vertical-offset="225">
               <caret line="9" column="2" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="array_diff_key.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/array/array_diff_key.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.64377683" vertical-offset="0" max-vertical-offset="240">
+              <caret line="10" column="2" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
               <folding />
             </state>
           </provider>
@@ -153,6 +163,7 @@
         <option value="$PROJECT_DIR$/array/sizeof.php" />
         <option value="$PROJECT_DIR$/array/sort.php" />
         <option value="$PROJECT_DIR$/array/array_combine.php" />
+        <option value="$PROJECT_DIR$/array/array_diff_key.php" />
       </list>
     </option>
   </component>
@@ -326,13 +337,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/string/substr.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="135" max-vertical-offset="255">
-          <caret line="9" column="33" selection-start-line="0" selection-start-column="0" selection-end-line="11" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/string/substr_replace.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="285" max-vertical-offset="375">
@@ -699,8 +703,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/array/array_combine.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.57939917" vertical-offset="0" max-vertical-offset="233">
+        <state vertical-scroll-proportion="-5.625" vertical-offset="0" max-vertical-offset="225">
           <caret line="9" column="2" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/array/array_diff_key.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.64377683" vertical-offset="0" max-vertical-offset="240">
+          <caret line="10" column="2" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
           <folding />
         </state>
       </provider>
