@@ -2,7 +2,67 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7272cffb-711f-49ca-9c6f-fba18e0af484" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/array/usort.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/crud/add_info.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/crud/connect.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/crud/create_form.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/crud/delete.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/crud/list.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/crud/update.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/array/array_change_key_case.php" afterPath="$PROJECT_DIR$/array/array_change_key_case.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/array/array_chunk.php" afterPath="$PROJECT_DIR$/array/array_chunk.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/array/array_column.php" afterPath="$PROJECT_DIR$/array/array_column.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/array/array_combine.php" afterPath="$PROJECT_DIR$/array/array_combine.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/array/array_count_values.php" afterPath="$PROJECT_DIR$/array/array_count_values.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/array/array_diff.php" afterPath="$PROJECT_DIR$/array/array_diff.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/array/array_diff_assoc.php" afterPath="$PROJECT_DIR$/array/array_diff_assoc.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/array/array_diff_key.php" afterPath="$PROJECT_DIR$/array/array_diff_key.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/array/array_fill.php" afterPath="$PROJECT_DIR$/array/array_fill.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/array/array_fill_keys.php" afterPath="$PROJECT_DIR$/array/array_fill_keys.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/array/array_flip.php" afterPath="$PROJECT_DIR$/array/array_flip.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/array/array_intersect_key.php" afterPath="$PROJECT_DIR$/array/array_intersect_key.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/array/array_key_exists.php" afterPath="$PROJECT_DIR$/array/array_key_exists.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/array/array_keys.php" afterPath="$PROJECT_DIR$/array/array_keys.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/array/array_merge.php" afterPath="$PROJECT_DIR$/array/array_merge.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/array/array_pop.php" afterPath="$PROJECT_DIR$/array/array_pop.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/array/array_push.php" afterPath="$PROJECT_DIR$/array/array_push.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/array/array_search.php" afterPath="$PROJECT_DIR$/array/array_search.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/array/array_shift.php" afterPath="$PROJECT_DIR$/array/array_shift.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/array/array_unshift.php" afterPath="$PROJECT_DIR$/array/array_unshift.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/classExercise.iml" afterPath="$PROJECT_DIR$/.idea/classExercise.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/array/compact.php" afterPath="$PROJECT_DIR$/array/compact.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/array/count.php" afterPath="$PROJECT_DIR$/array/count.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/string/explode.php" afterPath="$PROJECT_DIR$/string/explode.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/string/htmlentities.php" afterPath="$PROJECT_DIR$/string/htmlentities.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/array/in_array.php" afterPath="$PROJECT_DIR$/array/in_array.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/variable/is_array.php" afterPath="$PROJECT_DIR$/variable/is_array.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/variable/is_null.php" afterPath="$PROJECT_DIR$/variable/is_null.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/variable/is_object.php" afterPath="$PROJECT_DIR$/variable/is_object.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/variable/isset.php" afterPath="$PROJECT_DIR$/variable/isset.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/string/join.php" afterPath="$PROJECT_DIR$/string/join.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/array/list.php" afterPath="$PROJECT_DIR$/array/list.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/string/money_format.php" afterPath="$PROJECT_DIR$/string/money_format.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/variable/serialize.php" afterPath="$PROJECT_DIR$/variable/serialize.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/array/shuffle.php" afterPath="$PROJECT_DIR$/array/shuffle.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/array/sizeof.php" afterPath="$PROJECT_DIR$/array/sizeof.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/array/sort.php" afterPath="$PROJECT_DIR$/array/sort.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/string/sprintf.php" afterPath="$PROJECT_DIR$/string/sprintf.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/string/str_pad.php" afterPath="$PROJECT_DIR$/string/str_pad.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/string/str_repeat.php" afterPath="$PROJECT_DIR$/string/str_repeat.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/string/str_replace.php" afterPath="$PROJECT_DIR$/string/str_replace.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/string/strip_tags.php" afterPath="$PROJECT_DIR$/string/strip_tags.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/string/strlen.php" afterPath="$PROJECT_DIR$/string/strlen.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/string/strpos.php" afterPath="$PROJECT_DIR$/string/strpos.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/string/substr.php" afterPath="$PROJECT_DIR$/string/substr.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/string/substr_replace.php" afterPath="$PROJECT_DIR$/string/substr_replace.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/string/trim.php" afterPath="$PROJECT_DIR$/string/trim.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/variable/unserialize.php" afterPath="$PROJECT_DIR$/variable/unserialize.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/array/usort.php" afterPath="$PROJECT_DIR$/array/usort.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="classExercise.iws" />
@@ -28,42 +88,86 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="array_pop.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/array/array_pop.php">
+      <file leaf-file-name="create_form.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/crud/create_form.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-4.375" vertical-offset="0" max-vertical-offset="195">
-              <caret line="7" column="2" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
+            <state vertical-scroll-proportion="-10.625" vertical-offset="0" max-vertical-offset="420">
+              <caret line="17" column="51" selection-start-line="17" selection-start-column="51" selection-end-line="17" selection-end-column="51" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="array_unshift.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/array/array_unshift.php">
+      <file leaf-file-name="add_info.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/crud/add_info.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-3.75" vertical-offset="0" max-vertical-offset="195">
-              <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
+            <state vertical-scroll-proportion="-13.75" vertical-offset="0" max-vertical-offset="420">
+              <caret line="22" column="25" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
+              <folding>
+                <marker date="1419351786527" expanded="true" signature="72:217" placeholder="INSERT INTO ..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="list.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/crud/list.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.3633952" vertical-offset="163" max-vertical-offset="945">
+              <caret line="20" column="26" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
+              <folding>
+                <marker date="1419353457887" expanded="true" signature="151:261" placeholder="UPDATE users..." />
+                <marker date="1419353457887" expanded="true" signature="339:358" placeholder="SELECT * FRO..users..." />
+                <marker date="1419353457887" expanded="true" signature="425:973" placeholder="..." />
+                <marker date="1419353457887" expanded="true" signature="432:603" placeholder="..." />
+                <marker date="1419353457887" expanded="true" signature="444:595" placeholder="..." />
+                <marker date="1419353457887" expanded="true" signature="610:973" placeholder="..." />
+                <marker date="1419353457887" expanded="true" signature="656:973" placeholder="..." />
+                <marker date="1419353457887" expanded="true" signature="668:857" placeholder="..." />
+                <marker date="1419353457887" expanded="true" signature="681:844" placeholder="..." />
+                <marker date="1419353457887" expanded="true" signature="869:973" placeholder="..." />
+                <marker date="1419353457887" expanded="true" signature="940:973" placeholder="..." />
+                <marker date="1419353457887" expanded="true" signature="1437:1568" placeholder="..." />
+                <marker date="1419353457887" expanded="true" signature="1450:1473" placeholder="..." />
+                <marker date="1419353457887" expanded="true" signature="1450:1555" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="update.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/crud/update.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-18.125" vertical-offset="45" max-vertical-offset="585">
+              <caret line="32" column="25" selection-start-line="32" selection-start-column="25" selection-end-line="32" selection-end-column="25" />
+              <folding>
+                <marker date="1419351538755" expanded="true" signature="67:121" placeholder="SELECT * FRO..." />
+                <marker date="1419351538755" expanded="true" signature="67:122" placeholder="SELECT * FRO..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="connect.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/crud/connect.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-1.25" vertical-offset="0" max-vertical-offset="120">
+              <caret line="2" column="2" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="list.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/array/list.php">
+      <file leaf-file-name="delete.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/crud/delete.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-8.125" vertical-offset="90" max-vertical-offset="390">
-              <caret line="19" column="18" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="usort.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/array/usort.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.7647059" vertical-offset="0" max-vertical-offset="300">
-              <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
-              <folding />
+            <state vertical-scroll-proportion="-4.375" vertical-offset="0" max-vertical-offset="210">
+              <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+              <folding>
+                <marker date="1419344181727" expanded="true" signature="68:120" placeholder="DELETE FROM ..." />
+                <marker date="1419344181727" expanded="true" signature="68:121" placeholder="DELETE FROM ..." />
+                <marker date="1419344181727" expanded="true" signature="68:123" placeholder="DELETE FROM ..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -81,11 +185,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/string/explode.php" />
-        <option value="$PROJECT_DIR$/string/htmlentities.php" />
-        <option value="$PROJECT_DIR$/string/join.php" />
-        <option value="$PROJECT_DIR$/string/money_format.php" />
-        <option value="$PROJECT_DIR$/string/sprintf.php" />
         <option value="$PROJECT_DIR$/string/str_pad.php" />
         <option value="$PROJECT_DIR$/string/str_repeat.php" />
         <option value="$PROJECT_DIR$/string/str_replace.php" />
@@ -95,17 +194,12 @@
         <option value="$PROJECT_DIR$/string/substr.php" />
         <option value="$PROJECT_DIR$/string/substr_replace.php" />
         <option value="$PROJECT_DIR$/string/trim.php" />
-        <option value="$PROJECT_DIR$/variable/is_array.php" />
-        <option value="$PROJECT_DIR$/variable/is_object.php" />
-        <option value="$PROJECT_DIR$/variable/is_null.php" />
         <option value="$PROJECT_DIR$/variable/isset.php" />
-        <option value="$PROJECT_DIR$/variable/serialize.php" />
         <option value="$PROJECT_DIR$/variable/unserialize.php" />
         <option value="$PROJECT_DIR$/array/array_change_key_case.php" />
         <option value="$PROJECT_DIR$/array/array_chunk.php" />
         <option value="$PROJECT_DIR$/array/array_column.php" />
         <option value="$PROJECT_DIR$/array/array_count_values.php" />
-        <option value="$PROJECT_DIR$/array/array_diff.php" />
         <option value="$PROJECT_DIR$/array/array_diff_assoc.php" />
         <option value="$PROJECT_DIR$/array/array_fill.php" />
         <option value="$PROJECT_DIR$/array/array_fill_keys.php" />
@@ -129,15 +223,28 @@
         <option value="$PROJECT_DIR$/array/array_unshift.php" />
         <option value="$PROJECT_DIR$/array/list.php" />
         <option value="$PROJECT_DIR$/array/usort.php" />
+        <option value="$PROJECT_DIR$/variable/is_array.php" />
+        <option value="$PROJECT_DIR$/variable/serialize.php" />
+        <option value="$PROJECT_DIR$/variable/is_null.php" />
+        <option value="$PROJECT_DIR$/variable/is_object.php" />
+        <option value="$PROJECT_DIR$/array/array_diff.php" />
+        <option value="$PROJECT_DIR$/crud/create_form.html.php" />
+        <option value="$PROJECT_DIR$/crud/add_inof.php" />
+        <option value="$PROJECT_DIR$/crud/connect.php" />
+        <option value="$PROJECT_DIR$/crud/delete.php" />
+        <option value="$PROJECT_DIR$/crud/update.php" />
+        <option value="$PROJECT_DIR$/crud/add_info.php" />
+        <option value="$PROJECT_DIR$/crud/create_form.html" />
+        <option value="$PROJECT_DIR$/crud/list.php" />
       </list>
     </option>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="47" />
-    <option name="y" value="37" />
-    <option name="width" value="787" />
-    <option name="height" value="691" />
+    <option name="x" value="37" />
+    <option name="y" value="-14" />
+    <option name="width" value="1339" />
+    <option name="height" value="792" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -165,6 +272,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -193,13 +301,12 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="array" />
+              <option name="myItemId" value="crud" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -207,6 +314,10 @@
     <property name="FullScreen" value="false" />
     <property name="recentsLimit" value="5" />
     <property name="restartRequiresConfirmation" value="true" />
+    <property name="last_opened_file_path" value="/etc/php5/apache2/conf.d" />
+    <property name="options.lastSelected" value="reference.settings.ide.settings.web.browsers" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
   </component>
   <component name="RunManager" selected="JavaScript Debug.array_change_key_case.php">
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
@@ -257,18 +368,18 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="47" y="37" width="787" height="691" extended-state="0" />
+    <frame x="37" y="-14" width="1339" height="792" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.36505866" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20621683" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.42956522" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.34763312" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -302,38 +413,178 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/array/array_push.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.75" vertical-offset="0" max-vertical-offset="180">
+          <caret line="6" column="2" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/array/array_search.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.25" vertical-offset="0" max-vertical-offset="240">
+          <caret line="10" column="2" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/array/array_shift.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.37906137" vertical-offset="0" max-vertical-offset="277">
+          <caret line="7" column="2" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/array/array_merge.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5113636" vertical-offset="0" max-vertical-offset="264">
+          <caret line="9" column="2" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/array/in_array.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.625" vertical-offset="0" max-vertical-offset="225">
+          <caret line="9" column="2" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/array/sort.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.75" vertical-offset="0" max-vertical-offset="180">
+          <caret line="6" column="2" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/array/array_intersect_key.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4265403" vertical-offset="0" max-vertical-offset="211">
+          <caret line="6" column="2" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/array/array_diff_key.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.64377683" vertical-offset="0" max-vertical-offset="240">
+          <caret line="10" column="2" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/array/sizeof.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.16245487" vertical-offset="0" max-vertical-offset="277">
+          <caret line="3" column="2" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/array/shuffle.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.48736462" vertical-offset="0" max-vertical-offset="277">
+          <caret line="9" column="2" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/array/count.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.70397115" vertical-offset="0" max-vertical-offset="300">
+          <caret line="13" column="31" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/array/compact.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.39772728" vertical-offset="0" max-vertical-offset="264">
+          <caret line="7" column="2" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/array/array_pop.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.375" vertical-offset="0" max-vertical-offset="195">
+          <caret line="7" column="2" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/array/list.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-8.125" vertical-offset="90" max-vertical-offset="390">
+          <caret line="19" column="18" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/array/array_unshift.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.32490975" vertical-offset="0" max-vertical-offset="277">
+          <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/array/usort.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.70397115" vertical-offset="0" max-vertical-offset="300">
+          <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/variable/is_array.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4117647" vertical-offset="30" max-vertical-offset="285">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/variable/is_null.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.64705884" vertical-offset="0" max-vertical-offset="345">
+          <caret line="11" column="12" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/variable/isset.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="278" max-vertical-offset="510">
+        <state vertical-scroll-proportion="0.9411765" vertical-offset="180" max-vertical-offset="510">
           <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/variable/serialize.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="150" max-vertical-offset="360">
-          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+        <state vertical-scroll-proportion="-0.0" vertical-offset="90" max-vertical-offset="375">
+          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/variable/is_object.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3501805" vertical-offset="38" max-vertical-offset="390">
+          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/variable/unserialize.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="405">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/string/explode.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.2083333" vertical-offset="43" max-vertical-offset="270">
-          <caret line="8" column="13" selection-start-line="0" selection-start-column="0" selection-end-line="12" selection-end-column="2" />
+        <state vertical-scroll-proportion="1.1780303" vertical-offset="4" max-vertical-offset="405">
+          <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/string/htmlentities.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.125" vertical-offset="0" max-vertical-offset="240">
-          <caret line="5" column="27" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
+        <state vertical-scroll-proportion="0.11363637" vertical-offset="0" max-vertical-offset="264">
+          <caret line="2" column="38" selection-start-line="2" selection-start-column="38" selection-end-line="2" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/string/explode.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6818182" vertical-offset="0" max-vertical-offset="270">
+          <caret line="12" column="2" selection-start-line="12" selection-start-column="2" selection-end-line="12" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/string/money_format.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="2.3863637" vertical-offset="0" max-vertical-offset="720">
+          <caret line="42" column="2" selection-start-line="42" selection-start-column="2" selection-end-line="42" selection-end-column="2" />
         </state>
       </provider>
     </entry>
@@ -344,10 +595,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/string/money_format.php">
+    <entry file="file://$PROJECT_DIR$/string/str_pad.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-4.7916665" vertical-offset="515" max-vertical-offset="720">
-          <caret line="42" column="2" selection-start-line="42" selection-start-column="2" selection-end-line="42" selection-end-column="2" />
+        <state vertical-scroll-proportion="0.2840909" vertical-offset="0" max-vertical-offset="264">
+          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -358,31 +609,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/string/str_pad.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.75" vertical-offset="57" max-vertical-offset="255">
-          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/string/str_repeat.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-1.875" vertical-offset="0" max-vertical-offset="135">
-          <caret line="3" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="3" selection-end-column="2" />
+          <caret line="3" column="2" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="2" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/string/str_replace.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.3333334" vertical-offset="73" max-vertical-offset="285">
-          <caret line="7" column="9" selection-start-line="0" selection-start-column="0" selection-end-line="13" selection-end-column="2" />
+        <state vertical-scroll-proportion="-4.375" vertical-offset="0" max-vertical-offset="285">
+          <caret line="7" column="28" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/string/strip_tags.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.75" vertical-offset="0" max-vertical-offset="225">
-          <caret line="6" column="7" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
+        <state vertical-scroll-proportion="0.39772728" vertical-offset="0" max-vertical-offset="264">
+          <caret line="7" column="20" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/string/strpos.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.2166065" vertical-offset="0" max-vertical-offset="277">
+          <caret line="4" column="2" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
         </state>
       </provider>
     </entry>
@@ -393,297 +644,159 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/string/strpos.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="60" max-vertical-offset="150">
-          <caret line="4" column="2" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/string/substr.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="135" max-vertical-offset="255">
-          <caret line="9" column="33" selection-start-line="0" selection-start-column="0" selection-end-line="11" selection-end-column="2" />
+        <state vertical-scroll-proportion="-6.25" vertical-offset="0" max-vertical-offset="255">
+          <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/string/substr_replace.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="285" max-vertical-offset="375">
+        <state vertical-scroll-proportion="-8.125" vertical-offset="90" max-vertical-offset="375">
           <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/string/trim.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="225" max-vertical-offset="315">
+        <state vertical-scroll-proportion="0.8122744" vertical-offset="0" max-vertical-offset="315">
           <caret line="15" column="2" selection-start-line="15" selection-start-column="2" selection-end-line="15" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/variable/is_array.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="165" max-vertical-offset="255">
-          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/variable/is_object.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="173" max-vertical-offset="405">
-          <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/variable/is_null.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="90" max-vertical-offset="225">
-          <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/variable/isset.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="278" max-vertical-offset="510">
-          <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/variable/serialize.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="150" max-vertical-offset="360">
-          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/variable/unserialize.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-13.125" vertical-offset="0" max-vertical-offset="405">
-          <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/array/array_change_key_case.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.41379312" vertical-offset="0" max-vertical-offset="290">
-          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding />
+        <state vertical-scroll-proportion="-1.875" vertical-offset="0" max-vertical-offset="210">
+          <caret line="3" column="34" selection-start-line="3" selection-start-column="34" selection-end-line="3" selection-end-column="34" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/array/array_chunk.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.37906137" vertical-offset="0" max-vertical-offset="277">
+        <state vertical-scroll-proportion="-4.375" vertical-offset="0" max-vertical-offset="195">
           <caret line="7" column="2" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/array/array_column.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-6.25" vertical-offset="0" max-vertical-offset="255">
-          <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/array/array_diff.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.0" vertical-offset="0" max-vertical-offset="240">
-          <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/array/array_diff_assoc.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.625" vertical-offset="0" max-vertical-offset="240">
-          <caret line="9" column="37" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/array/array_fill.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.625" vertical-offset="0" max-vertical-offset="210">
-          <caret line="1" column="3" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/array/array_fill_keys.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.45454547" vertical-offset="0" max-vertical-offset="264">
-          <caret line="8" column="2" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/array/array_count_values.php">
-      <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.3409091" vertical-offset="0" max-vertical-offset="264">
-          <caret line="6" column="2" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/array/array_flip.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-6.25" vertical-offset="0" max-vertical-offset="240">
-          <caret line="10" column="2" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/array/array_key_exists.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-4.375" vertical-offset="0" max-vertical-offset="195">
-          <caret line="7" column="2" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/array/array_keys.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-9.375" vertical-offset="0" max-vertical-offset="315">
-          <caret line="15" column="2" selection-start-line="15" selection-start-column="2" selection-end-line="15" selection-end-column="2" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/array/array_push.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.75" vertical-offset="0" max-vertical-offset="180">
-          <caret line="6" column="2" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/array/array_search.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-6.25" vertical-offset="0" max-vertical-offset="240">
-          <caret line="10" column="2" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/array/array_shift.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.37906137" vertical-offset="0" max-vertical-offset="277">
-          <caret line="7" column="2" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/array/array_merge.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5113636" vertical-offset="0" max-vertical-offset="264">
-          <caret line="9" column="2" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/array/in_array.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.625" vertical-offset="0" max-vertical-offset="225">
-          <caret line="9" column="2" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/array/sort.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.75" vertical-offset="0" max-vertical-offset="180">
-          <caret line="6" column="2" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/array/array_intersect_key.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4265403" vertical-offset="0" max-vertical-offset="211">
-          <caret line="6" column="2" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/array/array_diff_key.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.64377683" vertical-offset="0" max-vertical-offset="240">
-          <caret line="10" column="2" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
-          <folding />
+          <caret line="6" column="27" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/array/array_combine.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5294118" vertical-offset="0" max-vertical-offset="255">
-          <caret line="9" column="2" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/array/sizeof.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.16245487" vertical-offset="0" max-vertical-offset="277">
-          <caret line="3" column="2" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="2" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/array/shuffle.php">
-      <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.48736462" vertical-offset="0" max-vertical-offset="277">
           <caret line="9" column="2" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/array/count.php">
+    <entry file="file://$PROJECT_DIR$/array/array_count_values.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.70397115" vertical-offset="0" max-vertical-offset="300">
-          <caret line="13" column="31" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
-          <folding />
+        <state vertical-scroll-proportion="-3.75" vertical-offset="0" max-vertical-offset="180">
+          <caret line="6" column="2" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/array/compact.php">
+    <entry file="file://$PROJECT_DIR$/array/array_diff.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.39772728" vertical-offset="0" max-vertical-offset="264">
+        <state vertical-scroll-proportion="0.0" vertical-offset="60" max-vertical-offset="240">
+          <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/array/array_diff_assoc.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="135" max-vertical-offset="240">
+          <caret line="9" column="37" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/array/array_flip.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="150" max-vertical-offset="240">
+          <caret line="10" column="2" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/array/array_key_exists.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.2777778" vertical-offset="0" max-vertical-offset="378">
           <caret line="7" column="2" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crud/connect.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.25" vertical-offset="0" max-vertical-offset="120">
+          <caret line="2" column="2" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/array/array_pop.php">
+    <entry file="file://$PROJECT_DIR$/crud/delete.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-4.375" vertical-offset="0" max-vertical-offset="195">
-          <caret line="7" column="2" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
+        <state vertical-scroll-proportion="-4.375" vertical-offset="0" max-vertical-offset="210">
+          <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+          <folding>
+            <marker date="1419344181727" expanded="true" signature="68:120" placeholder="DELETE FROM ..." />
+            <marker date="1419344181727" expanded="true" signature="68:121" placeholder="DELETE FROM ..." />
+            <marker date="1419344181727" expanded="true" signature="68:123" placeholder="DELETE FROM ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crud/create_form.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-10.625" vertical-offset="0" max-vertical-offset="420">
+          <caret line="17" column="51" selection-start-line="17" selection-start-column="51" selection-end-line="17" selection-end-column="51" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/array/array_unshift.php">
+    <entry file="file://$PROJECT_DIR$/crud/update.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.75" vertical-offset="0" max-vertical-offset="195">
-          <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
-          <folding />
+        <state vertical-scroll-proportion="-18.125" vertical-offset="45" max-vertical-offset="585">
+          <caret line="32" column="25" selection-start-line="32" selection-start-column="25" selection-end-line="32" selection-end-column="25" />
+          <folding>
+            <marker date="1419351538755" expanded="true" signature="67:121" placeholder="SELECT * FRO..." />
+            <marker date="1419351538755" expanded="true" signature="67:122" placeholder="SELECT * FRO..." />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/array/list.php">
+    <entry file="file://$PROJECT_DIR$/crud/add_info.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-8.125" vertical-offset="90" max-vertical-offset="390">
-          <caret line="19" column="18" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
-          <folding />
+        <state vertical-scroll-proportion="-13.75" vertical-offset="0" max-vertical-offset="420">
+          <caret line="22" column="25" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
+          <folding>
+            <marker date="1419351786527" expanded="true" signature="72:217" placeholder="INSERT INTO ..." />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/array/usort.php">
+    <entry file="file://$PROJECT_DIR$/crud/list.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7647059" vertical-offset="0" max-vertical-offset="300">
-          <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
-          <folding />
+        <state vertical-scroll-proportion="0.3633952" vertical-offset="163" max-vertical-offset="945">
+          <caret line="20" column="26" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
+          <folding>
+            <marker date="1419353457887" expanded="true" signature="151:261" placeholder="UPDATE users..." />
+            <marker date="1419353457887" expanded="true" signature="339:358" placeholder="SELECT * FRO..users..." />
+            <marker date="1419353457887" expanded="true" signature="425:973" placeholder="..." />
+            <marker date="1419353457887" expanded="true" signature="432:603" placeholder="..." />
+            <marker date="1419353457887" expanded="true" signature="444:595" placeholder="..." />
+            <marker date="1419353457887" expanded="true" signature="610:973" placeholder="..." />
+            <marker date="1419353457887" expanded="true" signature="656:973" placeholder="..." />
+            <marker date="1419353457887" expanded="true" signature="668:857" placeholder="..." />
+            <marker date="1419353457887" expanded="true" signature="681:844" placeholder="..." />
+            <marker date="1419353457887" expanded="true" signature="869:973" placeholder="..." />
+            <marker date="1419353457887" expanded="true" signature="940:973" placeholder="..." />
+            <marker date="1419353457887" expanded="true" signature="1437:1568" placeholder="..." />
+            <marker date="1419353457887" expanded="true" signature="1450:1473" placeholder="..." />
+            <marker date="1419353457887" expanded="true" signature="1450:1555" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>

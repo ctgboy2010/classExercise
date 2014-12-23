@@ -7,7 +7,6 @@ function get_students($obj)
     if (!is_object($obj)) {
         return false;
     }
-
     return $obj->students;
 }
 
